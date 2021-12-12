@@ -1,4 +1,4 @@
-                                                             //build an calculator using python
+                                                             # build an calculator using python
 
 
 first = input("enter your first number:")
