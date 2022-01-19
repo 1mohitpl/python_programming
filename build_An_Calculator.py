@@ -1,6 +1,4 @@
                                                              # build an calculator using python
-
-
 first = input("enter your first number:")
 operator = input("enter your operator(+,_,*,/,%,):")
 second = input("enter your second number:")
